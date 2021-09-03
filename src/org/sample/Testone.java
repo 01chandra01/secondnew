@@ -11,6 +11,15 @@ private void mail() {
 	System.out.println("call");
 
 }
+public void phone() {
+	System.out.println("Phone");
+
+}
+
+public void add() {
+	System.out.println("add");
+
+}
 
 public static void main(String[] args) {
 
