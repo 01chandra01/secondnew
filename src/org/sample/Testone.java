@@ -11,6 +11,7 @@ private void mail() {
 	System.out.println("call");
 
 }
+
 public void phone() {
 	System.out.println("Phone");
 
@@ -19,7 +20,16 @@ public void phone() {
 public void add() {
 	System.out.println("add");
 
+
 }
+public void codeee() {
+	System.out.println("mk");
+
+}
+public void weel() {
+	System.out.println("ink");
+
+
 
 public static void main(String[] args) {
 
