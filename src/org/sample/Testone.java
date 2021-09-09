@@ -11,6 +11,14 @@ private void mail() {
 	System.out.println("call");
 
 }
+public void codeee() {
+	System.out.println("mk");
+
+}
+public void weel() {
+	System.out.println("ink");
+
+}
 
 public static void main(String[] args) {
 
